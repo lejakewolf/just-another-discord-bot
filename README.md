@@ -3,7 +3,7 @@
 It's a nice bot, I guess.
 
 ### Installation
-###### Why? There's a million other bots out there just like this one.
+###### Why? There are a million other bots out there just like this one.
 
 First clone the repo
 ```sh
@@ -38,7 +38,7 @@ node server.js
 ```
 
 ### I covered everything.. right?
-Oh, right. No support or pull requests will be accepted for this repo. ~~No one will want to use this anyway. And I don't want you to.~~
+Oh, right. Neither support will be given nor pull requests will be accepted for this repo. You're on your own. ~~No one will want to use this anyway. And I don't want you to.~~
 
 #### Dependencies
 - **Bot Dependencies**
@@ -54,11 +54,3 @@ Oh, right. No support or pull requests will be accepted for this repo. ~~No one 
 	- [canvas](https://github.com/Automattic/node-canvas)
 
 ##### See `package.json` for version numbers of the above dependencies
-	
-
-
-
-
-
-
-
