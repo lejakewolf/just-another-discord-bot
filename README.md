@@ -3,7 +3,7 @@
 It's a nice bot, I guess.
 
 ### Installation
-###### Why? There's a million other's out there just like this one.
+###### Why? There's a million other bots out there just like this one.
 
 First clone the repo
 ```sh
@@ -32,7 +32,7 @@ Now just run the bot
 node bot.js
 ```
 
-###### Also run the server for the image manipulation command (`commands/boo.js`)
+###### Also run the server for the image manipulation command ( [boo.js](https://github.com/lejakewolf/just-another-discord-bot/blob/master/commands/boo.js) )
 ```sh
 node server.js
 ```
